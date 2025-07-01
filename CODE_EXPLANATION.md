@@ -1,3 +1,15 @@
+...
+
+### Ana Ekran
+![](ana_ekran.jpeg)
+
+### Rapor Listesi Yönetimi
+![](rapor_listesi.jpeg)
+
+### Ayarlar Sekmesi
+![](ayarlar_sekmesi.jpg)
+
+...
 # Kod Açıklaması
 
 Bu belge, `wpoto2.py` dosyasındaki Python kodunun ana bileşenlerini ve işlevlerini açıklamaktadır.
