@@ -1,3 +1,17 @@
+## Uygulama Ekran Görüntüleri
+
+İşte WhatsApp Otomasyon Aracı'nın farklı ekran görüntüsü örnekleri:
+
+### Ana Ekran
+![](ana_ekran.png) 
+
+### Rapor Listesi Yönetimi
+![](rapor_listesi.png) 
+
+### Ayarlar Sekmesi
+![](ayarlar_sekmesi.jpg)
+
+
 # WhatsApp Otomasyon Aracı
 
 Bu proje, hiç kodlama deneyimi olmayan biri tarafından yapay zeka araçları kullanılarak geliştirilmiş, WhatsApp Web üzerinden otomatik mesaj, doküman ve medya gönderimi yapmaya yarayan bir otomasyon aracıdır. Windows 10 işletim sistemi ve Python 3.13 versiyonu kullanılarak test edilmiştir.
