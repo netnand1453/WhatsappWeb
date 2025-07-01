@@ -1,0 +1,19 @@
+{
+    "report_directory": "C:/Users/User/Desktop/wpoto9/Rapor",
+    "xpath_settings": {
+        "whatsapp_main_panel": "//*[@id=\"pane-side\"]",
+        "search_button": "//*[@id=\"app\"]/div/div[3]/div/div[3]/header/header/div/span/div/div[1]/button/span",
+        "search_input": "//*[@id=\"app\"]/div/div[3]/div/div[2]/div[1]/span/div/span/div/div[1]/div[2]/div/div/div[1]/p",
+        "message_input_box": "//*[@id=\"main\"]/footer/div[1]/div/span/div/div[2]/div/div[3]/div[1]/p",
+        "send_message_button": "//*[@id=\"main\"]/footer/div[1]/div/span/div/div[2]/div/div[4]/button/span",
+        "attach_button": "//*[@id=\"main\"]/footer/div[1]/div/span/div/div[2]/div/div[1]/button/span",
+        "document_option": "//*[@id=\"app\"]/div/span[6]/div/ul/div/div/div[1]/li/div",
+        "document_file_input": "//*[@id=\"app\"]/div/span[6]/div/ul/div/div/div[1]/li/div//input[@type=\"file\"]",
+        "send_file_button": "//*[@id=\"app\"]/div/div[3]/div/div[2]/div[2]/span/div/div/div/div[2]/div/div[2]/div[2]/div/div/span",
+        "media_option_li": "//*[@id=\"app\"]/div/span[6]/div/ul/div/div/div[2]/li",
+        "media_file_input": "//*[@id=\"app\"]/div/span[6]/div/ul/div/div/div[2]/li//input[@type=\"file\"]",
+        "media_preview_message_input": "//*[@id=\"app\"]/div/div[3]/div/div[2]/div[2]/span/div/div/div/div[2]/div/div[1]/div[3]/div/div/div/div[1]/div[1]/p",
+        "send_media_button": "//*[@id=\"app\"]/div/div[3]/div/div[2]/div[2]/span/div/div/div/div[2]/div/div[2]/div[2]/div/div/span"
+    },
+    "last_report_path": "C:/Users/User/Desktop/wpoto9/Rapor\\G\u00f6nderim_Raporu_2025-06-30_17-48-04.xlsx"
+}
