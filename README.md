@@ -3,13 +3,13 @@
 İşte WhatsApp Otomasyon Aracı'nın farklı ekran görüntüsü örnekleri:
 
 ### Ana Ekran
-![](ana_ekran.png) 
+![](ana_ekran.jpeg) 
 
 ### Rapor Listesi Yönetimi
-![](rapor_listesi.png) 
+![](rapor_listesi.jpeg) 
 
 ### Ayarlar Sekmesi
-![](ayarlar_sekmesi.jpg)
+![](ayarlar_sekmesi.jpeg)
 
 
 # WhatsApp Otomasyon Aracı
